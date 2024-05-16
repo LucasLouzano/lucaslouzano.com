@@ -9,14 +9,14 @@ const cardProjects = [
     title: "This Web Site",
     value: "thisWebSite",
     description: "Click here and you can see the code from this website.",
-    url: "https://github.com/antoniorws/antoniorwserra.com",
+    url: "https://github.com/LucasLouzano/lucaslouzano.com",
     image: ThisSiteImage
   },
   {
-    title: "Roadmap Java",
-    value: "Roadmap Java",
-    description: "A GitHub repository with a primary Java trail to start your carrer in Java world.",
-    url: "https://github.com/antoniorws/basic-java",
+    title: "SocialMedia Java",
+    value: "SocialMedia Java",
+    description: "This repository contains the development of a social media and blog platform in Java, including the creation of a dedicated database for user authentication, post management, and interaction through comments. A comprehensive solution for content management in a social environment",
+    url: "https://github.com/LucasLouzano/SocialMedia",
     image: JavaImage
   }
 ];

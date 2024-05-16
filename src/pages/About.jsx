@@ -12,14 +12,14 @@ function About(){
                 <DivImageAboutImg src={aboutImg} alt="About Image" />
               </DivImageAbout>
               <div>
-                  <P>Very focused professional and very easy to work in a team.</P>
+                  <P></P>
                   <P><Inovation><Typed
                             strings={[
                             "I always look for innovation.",
                             ]}
                             typeSpeed={50}
-                        /></Inovation> On my journey I was part of MV Sistemas.</P>
-                  <P>Learning the business rules of the Hospital area (mainly the Supplies area).</P>
+                        /></Inovation> I am a highly focused and collaborative professional with a strong inclination for teamwork.</P>
+                  <P>I constantly seek innovation and am always looking for new opportunities to expand my knowledge and skills. Although my professional experience is not formally proven, I have dedicated my time to self-study and the development of significant personal projects.</P>
                   <P>I was also part of the technology area at Accenture focused on financial services, today I am part of China Systems.</P>
               </div>
         </MainAbout>

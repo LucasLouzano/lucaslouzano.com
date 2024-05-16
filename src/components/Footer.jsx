@@ -9,11 +9,10 @@ function Footer(){
         <FooterComponent>
             <SocialMediaNav>
                 <SocialMediaList>
-                    <SocialMediaItem><SocialMediaLink target='_blank' rel='noreferrer' href="https://github.com/antoniorws"><SocialMediaIcon alt='GitHub' src={gitHubImage} /></SocialMediaLink></SocialMediaItem>
-                    <SocialMediaItem><SocialMediaLink target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/antonio-rodrigo-wanderley-serra/"><SocialMediaIcon alt='LinkedIn' src={linkedInImage} /></SocialMediaLink></SocialMediaItem>
-                    <SocialMediaItem><SocialMediaLink target='_blank' rel='noreferrer' href="https://www.instagram.com/antoniowserra/"><SocialMediaIcon alt='Instagram' src={instagramImage} /></SocialMediaLink> </SocialMediaItem>
+                    <SocialMediaItem><SocialMediaLink target='_blank' rel='noreferrer' href="https://github.com/LucasLouzano"><SocialMediaIcon alt='GitHub' src={gitHubImage} /></SocialMediaLink></SocialMediaItem>
+                    <SocialMediaItem><SocialMediaLink target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/lucas-louzano24/"><SocialMediaIcon alt='LinkedIn' src={linkedInImage} /></SocialMediaLink></SocialMediaItem>
                 </SocialMediaList>
-                <P>Antonio Serra • © 2024</P>
+                <P>Lucas Louzano • © 2024</P>
             </SocialMediaNav>
         </FooterComponent>
     )
