@@ -15,7 +15,7 @@ function About(){
                   <P></P>
                   <P><Inovation><Typed
                             strings={[
-                            "I always look for innovation.",
+                            "I  always look for innovation.",
                             ]}
                             typeSpeed={50}
                         /></Inovation> I am a highly focused and collaborative professional with a strong inclination for teamwork.</P>
